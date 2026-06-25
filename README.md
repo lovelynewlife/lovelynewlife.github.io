@@ -1,5 +1,10 @@
 # My website
 
-## Preprint papers
-- [IMBridge: Impedance Mismatch Mitigation between Database Engine and Prediction Query Execution](https://lovelynewlife.github.io/resources/preprints/IMBridge_Impedance_Mismatch_Mitigation_between_Database_Engine_and_Prediction_Query_Execution.pdf)
-- [Mitigating the Impedance Mismatch between Prediction Query Execution and Database Engine](https://lovelynewlife.github.io/resources/preprints/Mitigating_the_Impedance_Mismatch_between_Prediction_Query_Execution_and_Database_Engine.pdf)
+## Publications
+- [C.1] **Chenyang Zhang**, Junxiong Peng, Chen Xu*, Quanqing Xu, and Chuanhui Yang. (2024). [IMBridge: Impedance Mismatch Mitigation between Database Engine and Prediction Query Execution](https://dl.acm.org/doi/10.1145/3626246.3654754). In Companion of the 2024 International Conference on Management of Data (SIGMOD).
+- [C.2] **Chenyang Zhang**, Junxiong Peng, Chen Xu*, Quanqing Xu, and Chuanhui Yang. (2025). [Mitigating the Impedance Mismatch between Prediction Query Execution and Database Engine](https://doi.org/10.1145/3725326). In Proc. ACM Manag. Data (PACMMOD).
+- [C.3] Zihao Chen, **Chenyang Zhang**, Chen Xu*, Zhao Zhang, Jiaqiang Wang, Weining Qian, and Aoying Zhou. (2025). [Scheduling Data Processing Pipelines for Incremental Training on MLP-based Recommendation Models](https://dl.acm.org/doi/10.1145/3722212.3724454). In Companion of the 2025 International Conference on Management of Data (SIGMOD).
+- [C.4] Qingfeng Pan, Jiahe Zhi, **Chenyang Zhang**, Chen Xu*, Zhao Zhang, Anita Shao, Guanglei Bao, Qiu Cui, Xiaowei Chen, and Aoying Zhou. (2025). [Machine Learning Inference Pipeline Execution Using Pure SQL Based on Operator Fusion](https://doi.ieeecomputersociety.org/10.1109/ICDE65448.2025.00254). In the 41st IEEE International Conference on Data Engineering (ICDE).
+- [C.5] Mingxi Liu, Zhengyuan Ding, **Chenyang Zhang**, Qingfeng Pan, Huayou Su, Zhao Zhang, Chen Xu*, and Qingsong Ruan. (2026). [Eliminating Redundant Feature Tests in Decision Tree and Random Forest Inference on SQL Predicates](https://dl.acm.org/doi/10.1145/3802048). In Proc. ACM Manag. Data (PACMMOD).
+- [C.6] Qingfeng Pan, Qingyuan Jing, **Chenyang Zhang**, Jiahe Zhi, Chen Xu*, and Heng Long. (2026). [EncoderForge: Generating Efficient SQL for Encoders in Machine Learning Inference Pipelines](https://dl.acm.org/doi/10.1145/3802050). In Proc. ACM Manag. Data (PACMMOD).
+- [C.7] **Chenyang Zhang**, Linjun Lu, Qingfeng Pan, Chen Xu*, Xianzhong Cao, Quanqing Xu, and Chuanhui Yang. (2026). IMLane: Composable Framework for Efficient AI Function Execution in Database Engine. Accepted to PVLDB 2026 Industry Track.
